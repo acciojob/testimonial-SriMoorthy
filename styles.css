@@ -1,1 +1,22 @@
 /*  your css code here. If applicable */
+body{
+    background-color:  #f5f5f5;
+}
+
+.Testimonals{
+    width: 1500px;
+    height: 100px;
+    background-color: white;
+    border: 1px solid black;
+    box-sizing: border-box;
+}
+
+.text{
+    padding: 5px 30px;
+}
+
+.author{
+    text-align: right;
+    font-style: italic;
+    margin: 20px 20px 30px;
+}
